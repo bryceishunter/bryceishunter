@@ -2,4 +2,4 @@
 - 👀 I’m interested in media tech
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on mass storage projects
-- 📫 How to reach me brycehunter.com
+- 📫 Reach me at brycehunter.com
