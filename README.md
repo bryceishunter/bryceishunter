@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bryceishunter
-- 👀 I’m interested in media tech
+- 👀 I’m interested in medical, quantum, and media tech
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on mass storage projects
 - 📫 Reach me at brycehunter.com
