@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bryceishunter
 - 👀 I’m interested in medical, quantum, and media tech
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently playing with GPT personas
 - 💞️ I’m looking to collaborate on mass storage projects
 - 📫 Reach me at brycehunter.com
