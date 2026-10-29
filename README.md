@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @bryceishunter
-- 👀 I’m interested in medical, quantum, and media tech
-- 🌱 I’m currently playing with GPT personas
-- 💞️ I’m looking to collaborate on mass storage projects
-- 📫 Reach me at brycehunter.com
+- 👀 I play in the worlds of medical, quantum, and media tech
+- 🌱 I like exploring wine, coffee, and infrastructure
+- 📫 Reach me at brycehunter.com or trtn.io
